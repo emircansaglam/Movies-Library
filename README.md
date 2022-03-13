@@ -4,4 +4,4 @@ SwiftUI kullanarak Mvvm mimarisiyle yazdığım bir film kütüphanesi uygulamas
 
 Bütün verileri api kullanarak çektim. Uygulamada search bar'dan arama yapıp filmlere ulaşabilirsiniz ayrıca aramadan sonra filmlere tıklayınca filmin detaylarınıda görebiliyorsunuz.
 
-verileri çektiğim site : http://www.omdbapi.com
+Verileri çektiğim site : http://www.omdbapi.com
